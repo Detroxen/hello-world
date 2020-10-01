@@ -1,2 +1,3 @@
 # hello-world
 Learning....
+I am currently learning Python and learning how to use GitHub and Git
